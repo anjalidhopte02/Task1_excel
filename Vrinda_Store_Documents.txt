@@ -1,0 +1,20 @@
+
+Vrinda store wants to create an annual sales report for 2022. 
+So that, Vrinda can understand their customers and grow more sales in 2023. 
+
+Content:
+
+Index: Computer generated sales slip invoice identification number.
+Order Id: Id of customer orders.
+Customer Id: Generated Id of customer.
+Gender: Gender type of customer.
+Age: customers age
+Age Group: Types of age group (Adult, Teenager, Senior )
+Ship-City: City of customers.
+Quantity: Number of products purchased by customer.
+Amount: Price of product.
+Currency: Type of amount.
+
+
+
+Excel Dataset Download : https://bit.ly/3X381ok
